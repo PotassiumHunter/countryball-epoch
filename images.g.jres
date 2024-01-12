@@ -1,12 +1,12 @@
 {
-    "transparency16": {
+    "image1": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true
+        "displayName": "myImage"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
-        "namespace": "myTiles"
+        "namespace": "myImages"
     }
 }
